@@ -1,0 +1,2 @@
+"""Fraud detection application package."""
+
