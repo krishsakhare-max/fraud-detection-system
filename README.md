@@ -140,30 +140,6 @@ Resources used:
 - Export reports as PDF or HTML
 - Add anti-spoofing / liveness detection
 
-## Demo Assets
-
-For GitHub submission, add:
-
-- Screenshots under `assets/screenshots/`
-- A short demo video under `assets/demo/`
-
-Suggested files:
-
-- `assets/screenshots/dashboard-home.png`
-- `assets/screenshots/live-alerts.png`
-- `assets/screenshots/session-summary.png`
-- `assets/demo/fraud-detection-demo.mp4`
-
-## Final Presentation Outline
-
-For a 5-minute presentation:
-
-1. Problem statement and use case
-2. System architecture
-3. Detection modules and scoring logic
-4. Live demo of webcam or recorded video
-5. Logs, summary, limitations, and future work
-
 ## Submission Checklist
 
 - Clean repository structure
